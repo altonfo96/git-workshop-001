@@ -11,3 +11,10 @@ border: 1px solid #000
 .container{
 
 }
+
+.circle{
+    border: 1px solid #000;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
